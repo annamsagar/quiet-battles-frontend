@@ -97,3 +97,4 @@ npm run preview
 4. Set Environment Variable:
    - `VITE_API_BASE_URL`: `https://<your-backend-host>/api/v1`
 5. Click **Deploy**. Vercel will deploy the client with clean SPA rewrites configured in `vercel.json`.
+
